@@ -1,0 +1,9 @@
+/* This is the inpute file for the self-seeding generation*/
+cry_thickness = 0.05e-3                            
+cry_bragg     =  49.279            
+cry_asymmetry = 0                               
+pho_energy    = 9995.92            
+xr0 = -0.14618E-04
+xi0 =  0.12325E-07 
+xrh =  0.24478E-05
+xih =  0.78874E-08     
